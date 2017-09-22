@@ -1,4 +1,4 @@
 # hello-world
 Just a simple repository
-Hi people 
+Hello people 
 I am Hamid
